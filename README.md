@@ -6,7 +6,7 @@
 https://www.kaggle.com/c/titanic/
 
 ## File introduction
-> #### titanic 폴더
+> #### test.csv and train.csv
 > : Data set
 
 > #### Titanic.ipynb
